@@ -1,0 +1,8 @@
+title: Scientific python cheat sheet
+description: simple overview of python, numpy, scipy, matplotlib functions that are useful for scientific work
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
